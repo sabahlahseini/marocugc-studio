@@ -1,0 +1,72 @@
+{
+  "product": "Huile d'argan bio marocaine pour cheveux secs",
+  "platform": "TikTok",
+  "category": "haircare",
+  "generation_time_seconds": 266.2,
+  "inspired_by": [
+    {
+      "hook": "C'est officiel: l'huile d'argan a sauvé mes cheveux",
+      "similarity": 69.18,
+      "engagement": 890000
+    },
+    {
+      "hook": "Cheveux abîmés? Cette astuce de Marrakech va vous choquer",
+      "similarity": 65.04,
+      "engagement": 1100000
+    },
+    {
+      "hook": "J'ai testé 47 huiles capillaires avant de trouver LA bonne",
+      "similarity": 50.02,
+      "engagement": 920000
+    }
+  ],
+  "all_hook_candidates": [
+    "Cette huile bio est la clé pour dégager mes cheveux secs",
+    "Cheveux secs ? Découvrez l'huile argan qui les transforme en une toile de cheveux lisse",
+    "J'ai testé 10 autres huiles avant de trouver celle qui agit vraiment",
+    "La question est : est-ce que mon coiffeur va approuver cette nouvelle huile capillaire?",
+    "Cheveux secs, mais pas plus ! Découvrez le secret de l'huile d'argan bio"
+  ],
+  "best_hook": "Cheveux secs ? Découvrez l'huile argan qui les transforme en une toile de cheveux lisse",
+  "hook_score": 70,
+  "script": {
+    "hook": "Cheveux secs ? Découvrez l'huile argan qui les transforme en une toile de cheveux lisse",
+    "probleme": "Mes cheveux étaient secs, cassants, sans vie depuis des années, et je me sentais dépassée.",
+    "solution": "J'ai découvert cette huile d'argan bio marocaine et c'est la magie qui m'a changée la vie. Elle les rend brillants, doux et parfairement hydratés.",
+    "cta": "Visitez ma page pour découvrir mes dernières tendances de beauté et obtenez 10% de réduction avec le code MAJBEAUTY en suivant mon profil !"
+  },
+  "script_full_text": "Cheveux secs ? Découvrez l'huile argan qui les transforme en une toile de cheveux lisse Mes cheveux étaient secs, cassants, sans vie depuis des années, et je me sentais dépassée. J'ai découvert cette huile d'argan bio marocaine et c'est la magie qui m'a changée la vie. Elle les rend brillants, doux et parfairement hydratés. Visitez ma page pour découvrir mes dernières tendances de beauté et obtenez 10% de réduction avec le code MAJBEAUTY en suivant mon profil !",
+  "estimated_video_seconds": 26,
+  "hashtags": {
+    "broad": [
+      "#huileargan",
+      "#cheveuxsec",
+      "#soinsdebeau"
+    ],
+    "niche": [
+      "#marocain",
+      "#biologique",
+      "#soinsnaturels",
+      "#acairesceaux"
+    ],
+    "trending": [
+      "#grwmeup",
+      "#hairgoals",
+      "#selfcare",
+      "#dryhairtricks"
+    ],
+    "all": [
+      "#huileargan",
+      "#cheveuxsec",
+      "#soinsdebeau",
+      "#marocain",
+      "#biologique",
+      "#soinsnaturels",
+      "#acairesceaux",
+      "#grwmeup",
+      "#hairgoals",
+      "#selfcare",
+      "#dryhairtricks"
+    ]
+  }
+}

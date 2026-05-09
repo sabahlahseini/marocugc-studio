@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ugc_001",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "POV: t'as enfin trouvé la crème qui te fait passer pour 18 ans",
+    "full_script": "POV: t'as enfin trouvé la crème qui te fait passer pour 18 ans. Moi quand j'ai testé celle-ci pour la première fois... mes potes m'ont demandé mon secret. C'est cette crème, je la mets matin et soir, et en 2 semaines, ma peau a changé. Lien en bio.",
+    "format_type": "POV",
+    "engagement": 850000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_002",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Personne ne sait que j'utilise ÇA depuis 1 mois",
+    "full_script": "Personne ne sait que j'utilise ÇA depuis 1 mois. Regarde la différence avant/après *montre les photos*. Le truc fou c'est que ça coûte moins de 100 dirhams. C'est devenu mon best-kept secret beauté.",
+    "format_type": "Secret_Reveal",
+    "engagement": 1200000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_003",
+    "category": "beauty",
+    "subcategory": "haircare",
+    "language": "fr",
+    "hook": "J'ai testé 47 huiles capillaires avant de trouver LA bonne",
+    "full_script": "J'ai testé 47 huiles capillaires avant de trouver LA bonne. Je vous montre. Cette huile d'argan pure, elle a changé mes cheveux secs en 3 semaines. Plus de pointes cassantes, brillance dingue. Code SECRET15 pour -15%.",
+    "format_type": "Numbered_Story",
+    "engagement": 920000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_004",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Wait... vous mettez encore de la crème HORS PRIX ?",
+    "full_script": "Wait... vous mettez encore de la crème hors prix ? Testez ce sérum d'abord. Mêmes ingrédients que les marques de luxe, à 1/10 du prix. Je l'utilise depuis 6 mois, ma peau n'a jamais été aussi belle.",
+    "format_type": "Pattern_Interrupt",
+    "engagement": 780000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_005",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "en",
+    "hook": "I tried this Moroccan beauty secret for 30 days...",
+    "full_script": "I tried this Moroccan beauty secret for 30 days... and the results are insane. Argan oil, but the real one from Essaouira. My skin has never been this glowy. Day 1 vs Day 30 transformation incoming.",
+    "format_type": "Day_Challenge",
+    "engagement": 2100000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_006",
+    "category": "beauty",
+    "subcategory": "haircare",
+    "language": "fr",
+    "hook": "Mon coiffeur m'a interdit d'utiliser ÇA",
+    "full_script": "Mon coiffeur m'a interdit d'utiliser ÇA et je sais pourquoi. Cette huile d'argan rend mes cheveux tellement beaux que je vais plus chez lui. Désolée pas désolée. Lien en bio.",
+    "format_type": "Forbidden_Hook",
+    "engagement": 1450000,
+    "platform": "instagram"
+  },
+  {
+    "id": "ugc_007",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Get ready with me en 2 minutes parce que je suis en retard",
+    "full_script": "Get ready with me en 2 minutes parce que je suis en retard. Étape 1: cette crème hydratante qui fait l'effet d'un primer. Étape 2: blush. Étape 3: gloss. Done. Et ça tient toute la journée.",
+    "format_type": "GRWM",
+    "engagement": 670000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_008",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Avant je dépensais 800dh par mois en soins, maintenant 150dh",
+    "full_script": "Avant je dépensais 800dh par mois en soins, maintenant 150dh et ma peau est MIEUX. Le secret? J'ai simplifié ma routine. 3 produits seulement. Je vous les montre.",
+    "format_type": "Money_Save",
+    "engagement": 540000,
+    "platform": "instagram"
+  },
+  {
+    "id": "ugc_009",
+    "category": "beauty",
+    "subcategory": "haircare",
+    "language": "fr",
+    "hook": "C'est officiel: l'huile d'argan a sauvé mes cheveux",
+    "full_script": "C'est officiel: l'huile d'argan a sauvé mes cheveux. Avant: secs, cassants, ternes. Après 1 mois d'utilisation: brillants, doux, plus de pointes fourchues. Je vous explique ma routine.",
+    "format_type": "Transformation",
+    "engagement": 890000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_010",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "en",
+    "hook": "If you have dry skin, you NEED this",
+    "full_script": "If you have dry skin, you NEED this. Pure argan oil from Morocco. 2 drops at night, wake up with skin like a baby. No more flaky patches, no more tightness. Game changer.",
+    "format_type": "Direct_Need",
+    "engagement": 1670000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_011",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Ma grand-mère marocaine m'a donné SA recette beauté",
+    "full_script": "Ma grand-mère marocaine m'a donné SA recette beauté. Et c'est juste de l'huile d'argan pure le soir. 60 ans, peau de bébé. Elle a raison depuis toujours. Je continue la tradition.",
+    "format_type": "Grandma_Wisdom",
+    "engagement": 2400000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_012",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Stop scroll: t'as la peau sèche? Regarde ça",
+    "full_script": "Stop scroll: t'as la peau sèche? Regarde ça. Cette routine en 3 étapes a changé ma vie. Étape 1: nettoyage doux. Étape 2: huile d'argan. Étape 3: crème occlusive. Résultat dingue.",
+    "format_type": "Scroll_Stopper",
+    "engagement": 720000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_013",
+    "category": "beauty",
+    "subcategory": "haircare",
+    "language": "fr",
+    "hook": "Cheveux abîmés? Cette astuce de Marrakech va vous choquer",
+    "full_script": "Cheveux abîmés? Cette astuce de Marrakech va vous choquer. Mélange huile d'argan + miel + œuf. Masque 30 minutes. Résultat? Cheveux de sirène. Moins de 50dh, jamais déçue.",
+    "format_type": "DIY_Recipe",
+    "engagement": 1100000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_014",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "en",
+    "hook": "Things in my routine that just make sense",
+    "full_script": "Things in my routine that just make sense. Argan oil before bed: skin glows in the morning. Drinking water with lemon: clearer skin. SPF every day: no more dark spots. Simple things, big results.",
+    "format_type": "Things_That_Make_Sense",
+    "engagement": 980000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_015",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Le truc bizarre que je fais le matin que personne ne fait",
+    "full_script": "Le truc bizarre que je fais le matin que personne ne fait: 3 gouttes d'huile d'argan dans ma crème hydratante. Ça booste l'hydratation, ma peau est radieuse, et ça dure 24h. Try it.",
+    "format_type": "Weird_Habit",
+    "engagement": 630000,
+    "platform": "instagram"
+  },
+  {
+    "id": "ugc_016",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "POV: t'as 30 ans mais tout le monde te donne 22",
+    "full_script": "POV: t'as 30 ans mais tout le monde te donne 22. Mon secret? Une routine ultra simple basée sur des ingrédients marocains traditionnels. Argan, ghassoul, eau de rose. C'est tout.",
+    "format_type": "POV",
+    "engagement": 1850000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_017",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "J'arrête le retinol et je vous explique pourquoi",
+    "full_script": "J'arrête le retinol et je vous explique pourquoi. J'ai switché vers l'huile d'argan pure le soir. Résultat? Plus de rougeurs, peau apaisée, et même effet anti-âge. Naturel = mieux pour MA peau.",
+    "format_type": "Controversial_Take",
+    "engagement": 1340000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_018",
+    "category": "beauty",
+    "subcategory": "haircare",
+    "language": "en",
+    "hook": "Tell me you have curly hair without telling me you have curly hair",
+    "full_script": "Tell me you have curly hair without telling me you have curly hair. *shows shelf full of argan oil bottles*. Started using pure Moroccan argan oil 6 months ago. My curls have never been more defined.",
+    "format_type": "Trend_Format",
+    "engagement": 870000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_019",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Ce que j'aurais aimé savoir à 20 ans sur ma peau",
+    "full_script": "Ce que j'aurais aimé savoir à 20 ans sur ma peau. Premièrement: SPF tous les jours, même en hiver. Deuxièmement: l'huile d'argan le soir. Troisièmement: arrêter de toucher mon visage. Game changer.",
+    "format_type": "Wish_I_Knew",
+    "engagement": 1220000,
+    "platform": "tiktok"
+  },
+  {
+    "id": "ugc_020",
+    "category": "beauty",
+    "subcategory": "skincare",
+    "language": "fr",
+    "hook": "Je teste la routine beauté de ma mère marocaine",
+    "full_script": "Je teste la routine beauté de ma mère marocaine pendant 2 semaines. Spoiler: c'est juste de l'huile d'argan, du ghassoul et de l'eau de rose. Et ma peau n'a JAMAIS été aussi belle. Less is more.",
+    "format_type": "Mom_Routine",
+    "engagement": 1980000,
+    "platform": "tiktok"
+  }
+]
